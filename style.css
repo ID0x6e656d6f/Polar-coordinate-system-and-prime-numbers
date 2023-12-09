@@ -1,0 +1,8 @@
+body {
+    margin: 0;
+    background-color: black;
+    overflow: scroll;
+  }
+  canvas{
+      overflow: scroll;
+  }
